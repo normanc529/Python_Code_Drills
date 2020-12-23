@@ -33,7 +33,7 @@ meaning that any code commented out is ignored.
 # Topic: Integers
 
 # Create a variable, `birth_year`, and assign it with an integer of 1815.
-# YOUR CODE HERE!
+birth_year = 1500
 
 # Create a variable, death_year, and assign it with an integer of 1852.
 # YOUR CODE HERE!
